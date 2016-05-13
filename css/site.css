@@ -1,0 +1,62 @@
+.left-column{
+    background-color: #439BC0;
+    height: 2100px;
+}
+
+.right-column{
+    background-color: #E6E6E6;
+    height: 2100px;
+}
+
+.ma-photo{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.infos{
+     padding-top: 20px;
+}
+
+.nom{
+    font-weight: 700;
+}
+
+.date{
+    font-weight: 700;
+}
+
+.prenom{
+    /*font-style: oblique;*/
+}
+
+.info-white{
+    color: white;
+}
+
+.padding-top-info{
+     padding-top: 20px;
+}
+
+.info-padding{
+    padding-left: 10px;
+    position: absolute;
+    padding-top: 1px;
+}
+
+.color-title{
+    font-weight: 700;
+    color: #439BC0;
+}
+
+.align-center-horizontal{
+    text-align: center;
+}
+
+.progress{
+    background-color: #b7b6b6;
+}
+
+.part-title{
+    position: inherit;
+    margin-top: -5px;
+}
